@@ -1,4 +1,4 @@
-# Generating Poetic Text with Recurrent Neural Networks with Python
+# Generating Poetic Text with Recurrent Neural Networks in Python
 
 This project demonstrates how to generate a poetic text using a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) layers in Python. It is trained on Shakespeare's work to produce stylistically similar text with adjustable creativity.
 
